@@ -5,7 +5,6 @@ github: 'https://github.com/ChamothAshen/Note-App.git'
 external: ''
 tech:
   - Kotlin
-  
 company: 'Mobile App'
 showInProjects: true
 ---
