@@ -1,7 +1,7 @@
 ---
 date: '2024-08-01'
 title: 'Singhe Automotive Pvt Ltd'
-github: 'https://github.com/PramodLakmal/mern-vsms'
+github: 'https://github.com/ChamothAshen/mern-vsms.git'
 external: ''
 tech:
   - ReactJS

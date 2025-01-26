@@ -2,7 +2,7 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'Pramod Lakmal',
+    title: 'Chamoth Ashen',
     description:
       'Software Engineer, Web Developer',
     siteUrl: 'http://pramodlakmal.online', // No trailing slash allowed!
@@ -19,8 +19,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'Pramod Lakmal',
-        short_name: 'Pramod',
+        name: 'chamoth Ashen',
+        short_name: 'Chamoth',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,

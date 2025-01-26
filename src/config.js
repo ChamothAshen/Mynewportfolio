@@ -1,14 +1,14 @@
 module.exports = {
-  email: 'pramodlakmalofficial@gmail.com',
+  email: 'chamothashen123@gmail.com',
 
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/PramodLakmal',
+      url: 'https://github.com/ChamothAshen',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/pramodlakmal',
+      url: 'https://www.linkedin.com/in/chamoth-ashen-875a82313/',
     },
   ],
 

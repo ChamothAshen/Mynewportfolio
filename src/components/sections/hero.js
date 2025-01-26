@@ -60,7 +60,7 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi! My name is</h1>;
-  const two = <h2 className="big-heading">Pramod Lakmal</h2>;
+  const two = <h2 className="big-heading">Chamoth Ashen</h2>;
   const three = <h3 className="medium-heading">I build things for the web.</h3>;
   const four = (
     <>
@@ -72,7 +72,7 @@ const Hero = () => {
   const five = (
     <a
       className="email-link"
-      href="/resume.pdf"
+      href="Resumes.pdf"
       target="_blank"
       rel="noopener noreferrer">
       Download My Resume!

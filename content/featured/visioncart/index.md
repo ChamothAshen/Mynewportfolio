@@ -1,13 +1,20 @@
 ---
 date: '2'
-title: 'VisionCart'
-cover: './VisionCart1.jpg'
-github: 'https://github.com/PramodLakmal/visioncart'
+title: 'Supplement Store Application'
+cover: './supliment.jpg'
+github: 'https://github.com/ChamothAshen/mern-supliment.git'
 external: ''
 tech:
-  - Flutter
+  - ReactJS
+  - NodeJS
+  - MongoDB
+  - ExpressJS
   - Firebase
-  - VoiceFlow
 ---
 
-A mobile and web-based application designed to make online shopping accessible for visually impaired users. It features a fully voice-controlled interface, product image recognition, text-to-speech and speech-to-text integration, and a voice call system for personalized order placement, ensuring an inclusive and seamless shopping experience.
+Developed a dynamic and secure supplement store application leveraging the MERN stack. Key features include:
+
+JWT Authentication: Ensures secure user login and data handling.
+Redux Toolkit: Efficient state management for seamless user experience.
+Google Authentication: Simplifies login for users with Google accounts.
+This project demonstrates my expertise in modern web technologies and my ability to create user-friendly, full-stack applications.

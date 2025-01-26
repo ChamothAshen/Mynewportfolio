@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['ASP.NET','JavaScript (ES6+)', 'Java', 'ReactJS','NodeJS', 'MongoDB', 'Firebase', 'Flutter', 'Kotlin', 'SQL'];
+  const skills = ['ASP.NET','JavaScript (ES6+)', 'Java', 'ReactJS','NodeJS', 'MongoDB', 'Firebase','SQL'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,15 +135,15 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Pramod Lakmal, and I am passionate about creating innovative digital solutions that enhance user experiences. My journey in software engineering began with an eagerness to solve real-world problems, which has led me to specialize in building full-stack web and mobile applications.
+               Hello! My name is Chamoth Ashen, and I am passionate about crafting meaningful digital solutions that improve people's lives. My journey in software engineering stems from a strong curiosity to solve real-world problems, driving me to specialize in building user-friendly and scalable applications.
             </p>
 
             <p>
-              Currently pursuing a BSc (Hons) in IT specializing in Software Engineering at SLIIT, I have gained hands-on experience in cutting-edge technologies, including Java, the MERN stack, and Flutter. I focus on developing accessible and efficient applications that address everyday challenges while ensuring high performance and scalability.
+              Currently pursuing a BSc (Hons) in IT specializing in Information Technology at SLIIT, I have gained hands-on experience in cutting-edge technologies, including Java, the MERN stack. I focus on developing accessible and efficient applications that address everyday challenges while ensuring high performance and scalability.
             </p>
 
             <p>
-              My technical expertise includes working with a wide range of tools and technologies, such as Node.js, React.js, Firebase, and Kotlin. I am committed to continuous learning and thrive on opportunities to collaborate and innovate within diverse teams.
+              My technical expertise includes working with a wide range of tools and technologies, such as Node.js, React.js, Firebase. I am committed to continuous learning and thrive on opportunities to collaborate and innovate within diverse teams.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
@@ -158,7 +158,7 @@ const About = () => {
           <div className="wrapper">
             <StaticImage
               className="img"
-              src="../../images/me.jpg"
+              src="../../images/my.jpg"
               width={500}
               quality={95}
               formats={['AUTO', 'WEBP', 'AVIF']}

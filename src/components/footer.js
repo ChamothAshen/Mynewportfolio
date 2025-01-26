@@ -87,7 +87,7 @@ const Footer = () => {
       <StyledCredit tabindex="-1">
         <a href="https://github.com/bchiang7/v4">
           <div>
-          Revised by Pramod lakmal
+          Revised by Chamoth Ashen
           </div>
         </a>
       </StyledCredit>
